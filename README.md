@@ -33,7 +33,7 @@ To configure the Storyblok client we have to change the access Token, to get the
         use: 'gridsome-source-storyblok',
         options: {
           client: {
-            accessToken: '<Your_Access_Token_Here>'
+            accessToken: '<OnnPSIlioQGuGWQ0zQKkFgtt>'
           },
           version: 'published',
           downloadImages: true,
