@@ -14,13 +14,13 @@ function addStyleResource (rule) {
 module.exports = {
   siteName: 'Gridsome Multilanguage Website',
   siteDescription: 'A demonstration website of use Storyblok with Gridsome',
-  siteUrl: 'https://demo.storyblok.com',
+  siteUrl: 'https://cc82e447.me.storyblok.com/',
   plugins: [
     {
       use: 'gridsome-source-storyblok',
       options: {
         client: {
-          accessToken: 'BTMojCrwizNsz0Haf5VmjQtt' // Your_Access_Token_Here
+          accessToken: 'Wc48UrdXNdGlatiX4UHYngtt' // Your_Access_Token_Here
         },
         version: 'published',
         downloadImages: true,
