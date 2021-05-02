@@ -2,7 +2,7 @@
   <Layout :global-content="globalData.content">
     <section class="blog-post-list">
       <header>
-        <h1 class="blog__title"> My Story </h1>
+        <h1 class="blog__title"> My Storys </h1>
 
         <hr class="divisor" />
       </header>
