@@ -22,7 +22,7 @@ $ yarn # or npm install
 
 ## Storyblok client configuration
 
-XTo configure the Storyblok client we have to change the access Token, to get the token you need a [Storyblok account](https://app.storyblok.com/#!/), now that you have the token, we will go to the `gridsome.config.js` file and change the token, the file is at the root of the project:
+To configure the Storyblok client we have to change the access Token, to get the token you need a [Storyblok account](https://app.storyblok.com/#!/), now that you have the token, we will go to the `gridsome.config.js` file and change the token, the file is at the root of the project:
 
 ```js
   // in gridsome.config.js
@@ -33,7 +33,7 @@ XTo configure the Storyblok client we have to change the access Token, to get th
         use: 'gridsome-source-storyblok',
         options: {
           client: {
-            accessToken: '<OnnPSIlioQGuGWQ0zQKkFgtt>'
+            accessToken: '<YOUR_ACCESS_TOKEN>'
           },
           version: 'published',
           downloadImages: true,
