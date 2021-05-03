@@ -34,7 +34,7 @@ const getParam = function(val) {
 }
 
 const SbClient = new StoryblokClient({
-  accessToken: getParam('token') || 'kldAxRYXHaE0nrpdNwffvwtt'
+  accessToken: getParam('token') || 'UFRAJu5WTMkv1OreFNYxoQtt'
 })
 
 const loadStoryblokBridge = function(cb) {
